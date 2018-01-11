@@ -106,3 +106,8 @@ body {
         text-align: justify !important;
     }
 }
+
+img[alt=Kombucha!]{
+    width: 80%;
+    height: auto;
+}
