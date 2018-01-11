@@ -3,9 +3,10 @@ layout: default
 title: Kombucha Genomics
 ---
 
-# Welcome to the home of __Kombucha Genomics__!
+# Welcome to the home of
+# __Kombucha Genomics__!
 
-<IMG SRC="photos/pexels-photo-130947.jpeg" ALT="Kombucha!" STYLE="width: 200px;"/>
+<IMG SRC="photos/pexels-photo-130947.jpeg" ALT="Kombucha!" STYLE="width: 60%;"/>
 
 ## __About__
 
