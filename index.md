@@ -12,7 +12,7 @@ ______________________________________
 
 <a name="about"></a>
 
-## __About__<
+## __About__
 
 Kombucha Genomics is a collaborative citizen science effort working to gain a better understanding of everyone's favorite vinegar-y beverage - Kombucha! Kombucha is a fermented beverage made from a symbiotic culture of bacteria and yeast(SCOBY). A SCOBY takes a mixture of black tea and sugar, degrades the sugars through anaerobic fermentation, and ultimately turns it into a refreshing beverage.
 
