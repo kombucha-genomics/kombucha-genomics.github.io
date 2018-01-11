@@ -17,15 +17,16 @@
 .navbar {
     border: none;
     letter-spacing: 3px;
-    background-color: aliceblue;
+    background-color: #8ee5ee;
 }
 .header-main {
     font-size: 300%;
     letter-spacing: 3px;
     color: #777;
-    background-color: aliceblue;
+    background-color: #8ee5ee;
 }
 .header-main h1 {
+    font-size: 300%;
     font-family: impact;
     padding: 20px;
 }
