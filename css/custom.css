@@ -19,6 +19,9 @@
     letter-spacing: 3px;
     background-color: #8ee5ee;
 }
+.header-title{
+    padding: 20px;
+}
 .header-main {
     font-size: 175%;
     letter-spacing: 3px;
