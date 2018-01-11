@@ -20,7 +20,7 @@
     background-color: #8ee5ee;
 }
 .header-main {
-    font-size: 200%;
+    font-size: 150%;
     letter-spacing: 3px;
     color: #777;
     background-color: #8ee5ee;
@@ -29,7 +29,6 @@
     padding: 20px
 }
 .header-main h1 {
-    font-size: 175%;
     font-family: impact;
 }
 .header-main IMG {
