@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Ellis Anderson
+title: Kombucha Genomics
 ---
 
 # Welcome to the home of __Kombucha Genomics__!
 
-## about
+![Kombucha!](photos/pexels-photo-130947.jpeg)
+
+## __About__
 
 <a name="about"></a>
 
