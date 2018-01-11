@@ -89,3 +89,20 @@ body {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+@media (min-width: 992px) {
+    .text-md-left {
+        text-align: left !important;
+    }
+
+    .text-md-right {
+        text-align: right !important;
+    }
+
+    .text-md-center {
+        text-align: center !important;
+    }
+
+    .text-md-justify {
+        text-align: justify !important;
+    }
+}
