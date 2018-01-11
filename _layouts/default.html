@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/bootstrap.css">
+			<link rel="stylesheet" type="text/css" href="/css/custom.css">
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+		</head>
+		<body data-spy="scroll" data-target=".navbar" data-offset="25">
+			<div class="container-fluid header-main">
+				<div class="row text-center">
+						<h1>Ellis Anderson</h1>
+				</div>
+				<div class="row text-center">
+						<h4>Bioinformaticist and Entrepenuer</h4>
+				</div>
+			</div>
+
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<div class="nav-wrapper">
+			<nav class="navbar navbar-default" data-spy="affix" data-offset-top="177">
+			  <div class="container-fluid" id="nav">
+			    <div class="navbar-header">
+			      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="ellis-navbar" aria-expanded="false">
+			        <span class="sr-only">Toggle navigation</span>
+			        <span class="icon-bar"></span>
+			        <span class="icon-bar"></span>
+			        <span class="icon-bar"></span>
+			      </button>
+			    </div>
+
+			    <!-- Collect the nav links, forms, and other content for toggling -->
+					<div>
+						<div class="collapse navbar-collapse" id="ellis-navbar">
+				      <ul class="nav navbar-nav">
+								<li><a href="/">Home</a></li>
+				        <li><a href="/about/tep-1.html">About</a></li>
+								<li><a href="/cv/science_cv_internet2.pdf">Curriculum Vitae</a></li>
+				        <li><a href="/projects">Projects</a></li>
+				      </ul>
+				    </div><!-- /.navbar-collapse -->
+			  	</div><!-- /.container-fluid -->
+				</div>
+			</nav>
+		</div>
+			<div class="container">
+
+			{{ content }}
+
+			</div><!-- /.container -->
+			<div class="container-fluid">
+				<div class="row" id="footer-bar">
+					<div class="col-md-12 text-center">
+						<h1>Contact</h1>
+					</div>
+					<div class="col-md-12 text-center">
+						<p><a href="https://github.com/Ellis-Anderson">Github</a> &middot; <a href="mailto:eaanderson@ucdavis.edu">E-mail</a></p>
+					</div>
+				</div>
+			</div>
+			<script src="https://code.jquery.com/jquery-1.11.3.js"></script>
+			<!-- Include all compiled plugins (below), or include individual files as needed -->
+			<script src="/js/bootstrap.js"></script>
+		</body>
+	</html>
