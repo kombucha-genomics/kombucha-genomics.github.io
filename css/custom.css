@@ -28,6 +28,9 @@
     font-family: impact;
     padding: 20px;
 }
+.header-main IMG {
+  padding: 20px;
+}
 .header-main h4 {
     padding-top: 10px;
     padding-bottom: 20px;
