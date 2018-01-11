@@ -26,7 +26,8 @@ ______________________________________
 
 Here are some recipes you can try out:
 
-<div class= "col-md-4 col-md-offset-4 text-left">
+<div class="col-md-4 col-md-offset-4 text-left">
+
 - [Cultures For Health](https://www.culturesforhealth.com/learn/kombucha/how-to-make-kombucha/)
 - [The Kitchn](https://www.thekitchn.com/how-to-make-kombucha-tea-at-home-cooking-lessons-from-the-kitchn-173858)
 - [Kombucha Kamp](https://www.kombuchakamp.com/kombucha-recipe)
@@ -35,6 +36,7 @@ Here are some recipes you can try out:
 - [Ifoodreal](http://ifoodreal.com/kombucha-recipe/)
 - [Live Eat Learn](https://www.liveeatlearn.com/the-simple-guide-to-kickass-kombucha/)
 - [Meghan Telpner](https://www.meghantelpner.com/blog/quick-and-easy-guide-to-brewing-kombucha/)
+
 </div>
 ______________________________________
 
