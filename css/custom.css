@@ -25,10 +25,12 @@
     color: #777;
     background-color: #8ee5ee;
 }
+.header-title{
+    padding: 20px
+}
 .header-main h1 {
-    font-size: 200%;
+    font-size: 175%;
     font-family: impact;
-    padding: 20px;
 }
 .header-main IMG {
     padding: 20px;
