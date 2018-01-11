@@ -5,7 +5,7 @@ title: Kombucha Genomics
 
 # Welcome to the home of __Kombucha Genomics__!
 
-![Kombucha!](photos/pexels-photo-130947.jpeg)
+<IMG SRC="photos/pexels-photo-130947.jpeg" ALT="Kombucha!" STYLE="width: 200px;"/>
 
 ## __About__
 
