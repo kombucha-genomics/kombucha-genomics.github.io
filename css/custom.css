@@ -20,23 +20,17 @@
     background-color: #8ee5ee;
 }
 .header-main {
-    font-size: 150%;
+    font-size: 175%;
     letter-spacing: 3px;
     color: #777;
     background-color: #8ee5ee;
 }
-.header-title{
-    padding: 20px
-}
 .header-main h1 {
     font-family: impact;
+    margin: 5px;
 }
 .header-main IMG {
     padding: 20px;
-}
-.header-main h4 {
-    padding-top: 10px;
-    padding-bottom: 20px;
 }
 .nav-wrapper{
     height: 50px;
