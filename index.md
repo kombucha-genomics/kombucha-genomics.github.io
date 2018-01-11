@@ -22,27 +22,6 @@ We're working to learn as much as we can about the micro-organism masterminds be
 
 ______________________________________
 
-#### __Interested In Making Your Own?__
-
-Here are some recipes you can try out:
-
-[Cultures For Health](https://www.culturesforhealth.com/learn/kombucha/how-to-make-kombucha/)
-
-[The Kitchn](https://www.thekitchn.com/how-to-make-kombucha-tea-at-home-cooking-lessons-from-the-kitchn-173858)
-
-[Kombucha Kamp](https://www.kombuchakamp.com/kombucha-recipe)
-
-[Organic Authority](http://www.organicauthority.com/spirits-and-drinks/diy-4-ingredient-kombucha-recipe.html)
-
-[Wellness Mama](https://wellnessmama.com/2673/kombucha-recipe/)
-
-[Ifoodreal](http://ifoodreal.com/kombucha-recipe/)
-
-[Live Eat Learn](https://www.liveeatlearn.com/the-simple-guide-to-kickass-kombucha/)
-
-[Meghan Telpner](https://www.meghantelpner.com/blog/quick-and-easy-guide-to-brewing-kombucha/)
-
-______________________________________
 
 ## Contribute
 
