@@ -22,7 +22,7 @@ We're working to learn as much as we can about the micro-organism masterminds be
 
 ______________________________________
 
-#### Interested In Making Your Own?
+#### __Interested In Making Your Own?__
 
 Here are some recipes you can try out:
 
@@ -39,3 +39,7 @@ Here are some recipes you can try out:
 ______________________________________
 
 ## Contribute
+
+If you're interested in contributing to the project feel free to get in touch with any of our colloborators or [e-mail](mailto:kombuchagenomics@gmail.com) us for more info.
+
+You can also read more about the project on our [wiki](#wiki). Contributing to the wiki is easy, so long as you know how to format text with [markdown](https://daringfireball.net/projects/markdown/). This easy to use syntax lets you quickly and easily format text for the web. It's how much of this website was made, and how all of our wiki articles are written. To quickly get up to speed, check out [SOMETHING](#something)
