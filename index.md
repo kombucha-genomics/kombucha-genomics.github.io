@@ -8,6 +8,8 @@ title: Kombucha Genomics
 
 <IMG SRC="photos/highres_466177711.jpeg" ALT="the team!" STYLE="width: 100%;"/>
 
+______________________________________
+
 ## __About__
 
 <a name="about"></a>
@@ -17,6 +19,8 @@ Kombucha Genomics is a collaborative citizen science effort working to gain a be
 <IMG SRC="photos/pexels-photo-130947.jpeg" ALT="Kombucha!" STYLE="width: 40%;"/>
 
 We're working to learn as much as we can about the micro-organism masterminds behind this delicious and ancient drink. Some of our next steps include: ribosomal sequencing of SCOBY micro-organisms, isolation of particular yeast and bacterial strains, and organizing classes to introduce community members to our work and the biological sciences.
+
+______________________________________
 
 #### Interested In Making Your Own?
 
