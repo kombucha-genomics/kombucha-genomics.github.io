@@ -3,12 +3,11 @@ layout: default
 title: Kombucha Genomics
 ---
 
-______________________________________
 
-# Welcome to the home of
-# __Kombucha Genomics__!
+<h1 style="padding-top: 20px;">Welcome to the home of</h1>
+<h1 style="padding-bottom: 20px;"><b>Kombucha Genomics</b></h1>
 
-______________________________________
+
 
 <IMG SRC="photos/highres_466177711.jpeg" ALT="the team!" STYLE="width: 100%;"/>
 
