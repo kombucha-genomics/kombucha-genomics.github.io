@@ -11,8 +11,6 @@ title: Kombucha Genomics
 
 <IMG SRC="photos/highres_466177711.jpeg" ALT="the team!" STYLE="width: 100%;"/>
 
-______________________________________
-
 <a name="about"></a>
 
 ## __About__
